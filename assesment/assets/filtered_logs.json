@@ -1,0 +1,1408 @@
+{
+    "actions": [
+        {
+            "COMMAND": null,
+            "RESPONSE": null
+        },
+        {
+            "COMMAND": "[1744912025.441][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND InitSession {\n   \"capabilities\": {\n      \"firstMatch\": [ {\n         \"browserName\": \"chrome\",\n         \"goog:chromeOptions\": {\n            \"args\": [ \"--remote-allow-origins=*\" ],\n            \"binary\": \"C:\\\\Program Files\\\\Google\\\\Chrome\\\\Application\\\\chrome.exe\",\n            \"extensions\": [  ]\n         },\n         \"goog:loggingPrefs\": {\n            \"browser\": \"ALL\",\n            \"driver\": \"ALL\"\n         }\n      } ]\n   }\n}\n",
+            "RESPONSE": "[1744912026.527][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE InitSession {\n   \"capabilities\": {\n      \"acceptInsecureCerts\": false,\n      \"browserName\": \"chrome\",\n      \"browserVersion\": \"135.0.7049.85\",\n      \"chrome\": {\n         \"chromedriverVersion\": \"135.0.7049.95 (de2eb485a1951079e63bdb57ce25544d2dc79c15-refs/branch-heads/7049@{#1836})\",\n         \"userDataDir\": \"C:\\\\Users\\\\ANILKU~1\\\\AppData\\\\Local\\\\Temp\\\\scoped_dir2620_854450150\"\n      },\n      \"fedcm:accounts\": true,\n      \"goog:chromeOptions\": {\n         \"debuggerAddress\": \"localhost:57114\"\n      },\n      \"networkConnectionEnabled\": false,\n      \"pageLoadStrategy\": \"normal\",\n      \"platformName\": \"windows\",\n      \"proxy\": {\n      },\n      \"setWindowRect\": true,\n      \"strictFileInteractability\": false,\n      \"timeouts\": {\n         \"implicit\": 0,\n         \"pageLoad\": 300000,\n         \"script\": 30000\n      },\n      \"unhandledPromptBehavior\": \"dismiss and notify\",\n      \"webauthn:extension:credBlob\": true,\n      \"webauthn:extension:largeBlob\": true,\n      \"webauthn:extension:minPinLength\": true,\n      \"webauthn:extension:prf\": true,\n      \"webauthn:virtualAuthenticators\": true\n   },\n   \"sessionId\": \"cdbf6e80d54c0ed955c8bcc1e2456d1b\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912026.770][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND MaximizeWindow {\n}\n",
+            "RESPONSE": "[1744912026.811][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE MaximizeWindow {\n   \"height\": 832,\n   \"width\": 1552,\n   \"x\": -8,\n   \"y\": -8\n}\n"
+        },
+        {
+            "COMMAND": "[1744912026.835][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND Navigate {\n   \"url\": \"http://www.flipkart.com/\"\n}\n",
+            "RESPONSE": "[1744912029.701][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE Navigate\n"
+        },
+        {
+            "COMMAND": "[1744912029.713][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"// div[@class='JFPqaw']/span\"\n}\n",
+            "RESPONSE": "[1744912029.732][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement ERROR no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"// div[@class='JFPqaw']/span\"}\n  (Session info: chrome=135.0.7049.85)\n"
+        },
+        {
+            "COMMAND": "[1744912030.248][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"// div[@class='JFPqaw']/span\"\n}\n",
+            "RESPONSE": "[1744912030.276][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement ERROR no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"// div[@class='JFPqaw']/span\"}\n  (Session info: chrome=135.0.7049.85)\n"
+        },
+        {
+            "COMMAND": "[1744912030.798][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"// div[@class='JFPqaw']/span\"\n}\n",
+            "RESPONSE": "[1744912030.833][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement ERROR no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"// div[@class='JFPqaw']/span\"}\n  (Session info: chrome=135.0.7049.85)\n"
+        },
+        {
+            "COMMAND": "[1744912031.342][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"// div[@class='JFPqaw']/span\"\n}\n",
+            "RESPONSE": "[1744912031.355][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement ERROR no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"// div[@class='JFPqaw']/span\"}\n  (Session info: chrome=135.0.7049.85)\n"
+        },
+        {
+            "COMMAND": "[1744912031.887][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"// div[@class='JFPqaw']/span\"\n}\n",
+            "RESPONSE": "[1744912031.900][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement ERROR no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"// div[@class='JFPqaw']/span\"}\n  (Session info: chrome=135.0.7049.85)\n"
+        },
+        {
+            "COMMAND": "[1744912032.412][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"// div[@class='JFPqaw']/span\"\n}\n",
+            "RESPONSE": "[1744912032.432][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement ERROR no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"// div[@class='JFPqaw']/span\"}\n  (Session info: chrome=135.0.7049.85)\n"
+        },
+        {
+            "COMMAND": "[1744912032.953][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"// div[@class='JFPqaw']/span\"\n}\n",
+            "RESPONSE": "[1744912032.970][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement ERROR no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"// div[@class='JFPqaw']/span\"}\n  (Session info: chrome=135.0.7049.85)\n"
+        },
+        {
+            "COMMAND": "[1744912033.481][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"// div[@class='JFPqaw']/span\"\n}\n",
+            "RESPONSE": "[1744912033.490][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement ERROR no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"// div[@class='JFPqaw']/span\"}\n  (Session info: chrome=135.0.7049.85)\n"
+        },
+        {
+            "COMMAND": "[1744912034.009][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"// div[@class='JFPqaw']/span\"\n}\n",
+            "RESPONSE": "[1744912034.019][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement ERROR no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"// div[@class='JFPqaw']/span\"}\n  (Session info: chrome=135.0.7049.85)\n"
+        },
+        {
+            "COMMAND": "[1744912034.538][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"// div[@class='JFPqaw']/span\"\n}\n",
+            "RESPONSE": "[1744912034.555][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement ERROR no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"// div[@class='JFPqaw']/span\"}\n  (Session info: chrome=135.0.7049.85)\n"
+        },
+        {
+            "COMMAND": "[1744912035.060][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"// div[@class='JFPqaw']/span\"\n}\n",
+            "RESPONSE": "[1744912035.075][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement ERROR no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"// div[@class='JFPqaw']/span\"}\n  (Session info: chrome=135.0.7049.85)\n"
+        },
+        {
+            "COMMAND": "[1744912035.081][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetUrl {\n}\n",
+            "RESPONSE": "[1744912035.089][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetUrl \"https://www.flipkart.com/\"\n"
+        },
+        {
+            "COMMAND": "[1744912035.097][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"//input[starts-with(@placeholder, 'Search for Product') or @type='text' or starts-with(@title, 'Search for Product')]\"\n}\n",
+            "RESPONSE": "[1744912035.111][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.8B78DDAB7E91D62C4832ABB40375B73B.e.118\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912035.148][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND ClickElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.8B78DDAB7E91D62C4832ABB40375B73B.e.118\"\n}\n",
+            "RESPONSE": "[1744912035.246][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE ClickElement\n"
+        },
+        {
+            "COMMAND": "[1744912035.250][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND ClearElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.8B78DDAB7E91D62C4832ABB40375B73B.e.118\"\n}\n",
+            "RESPONSE": "[1744912035.278][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE ClearElement\n"
+        },
+        {
+            "COMMAND": "[1744912035.286][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND TypeElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.8B78DDAB7E91D62C4832ABB40375B73B.e.118\",\n   \"text\": \"Washing Machine\",\n   \"value\": [ \"W\", \"a\", \"s\", \"h\", \"i\", \"n\", \"g\", \" \", \"M\", \"a\", \"c\", \"h\", \"i\", \"n\", \"e\" ]\n}\n",
+            "RESPONSE": "[1744912035.351][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE TypeElement\n"
+        },
+        {
+            "COMMAND": "[1744912035.354][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"//button[starts-with(@aria-label, 'Search for Product') or @type='submit' or starts-with(@title, 'Search for Product')]\"\n}\n",
+            "RESPONSE": "[1744912035.363][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.8B78DDAB7E91D62C4832ABB40375B73B.e.124\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912035.379][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"//button[starts-with(@aria-label, 'Search for Product') or @type='submit' or starts-with(@title, 'Search for Product')]\"\n}\n",
+            "RESPONSE": "[1744912035.388][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.8B78DDAB7E91D62C4832ABB40375B73B.e.124\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912035.403][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND IsElementEnabled {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.8B78DDAB7E91D62C4832ABB40375B73B.e.124\"\n}\n",
+            "RESPONSE": "[1744912035.409][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE IsElementEnabled true\n"
+        },
+        {
+            "COMMAND": "[1744912035.412][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"//button[starts-with(@aria-label, 'Search for Product') or @type='submit' or starts-with(@title, 'Search for Product')]\"\n}\n",
+            "RESPONSE": "[1744912035.420][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.8B78DDAB7E91D62C4832ABB40375B73B.e.124\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912035.423][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND ClickElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.8B78DDAB7E91D62C4832ABB40375B73B.e.124\"\n}\n",
+            "RESPONSE": "[1744912038.086][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE ClickElement\n"
+        },
+        {
+            "COMMAND": "[1744912038.095][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetUrl {\n}\n",
+            "RESPONSE": "[1744912038.120][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetUrl \"https://www.flipkart.com/search?q=Washing%20Machine&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off\"\n"
+        },
+        {
+            "COMMAND": "[1744912038.124][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetTitle {\n}\n",
+            "RESPONSE": "[1744912038.128][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetTitle \"Washing Machine- Buy Products Online at Best Price in India - All Categories | Flipkart.com\"\n"
+        },
+        {
+            "COMMAND": "[1744912038.130][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"//div[text()='Popularity']\"\n}\n",
+            "RESPONSE": "[1744912038.141][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.318\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912038.152][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"//div[text()='Popularity']\"\n}\n",
+            "RESPONSE": "[1744912038.158][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.318\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912038.169][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND IsElementEnabled {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.318\"\n}\n",
+            "RESPONSE": "[1744912038.175][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE IsElementEnabled true\n"
+        },
+        {
+            "COMMAND": "[1744912038.178][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"//div[text()='Popularity']\"\n}\n",
+            "RESPONSE": "[1744912038.183][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.318\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912038.186][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND ClickElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.318\"\n}\n",
+            "RESPONSE": "[1744912038.270][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE ClickElement\n"
+        },
+        {
+            "COMMAND": "[1744912043.285][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElements {\n   \"using\": \"xpath\",\n   \"value\": \"//div[contains(@class,'yKfJKb')]\"\n}\n",
+            "RESPONSE": "[1744912043.303][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElements [ {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.374\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.375\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.376\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.377\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.378\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.379\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.380\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.381\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.382\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.383\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.384\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.385\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.386\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.387\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.388\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.389\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.390\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.391\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.392\"\n}, \"...\" ]\n"
+        },
+        {
+            "COMMAND": "[1744912043.507][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.374\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[@id and contains(@id,'productRating')]\"\n}\n",
+            "RESPONSE": "[1744912043.515][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.398\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.517][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.398\"\n}\n",
+            "RESPONSE": "[1744912043.528][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"4.2\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.530][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.374\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(text(), 'Washing Machine') or contains(text(), 'Automatic') or contains(text(), 'Fully') or contains(text(),'kg')]\"\n}\n",
+            "RESPONSE": "[1744912043.538][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.399\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.540][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.399\"\n}\n",
+            "RESPONSE": "[1744912043.545][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"realme TechLife 7 kg 5 Star rating Semi Automatic Top Load Washing Machine White, Black\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.548][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.375\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[@id and contains(@id,'productRating')]\"\n}\n",
+            "RESPONSE": "[1744912043.553][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.400\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.555][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.400\"\n}\n",
+            "RESPONSE": "[1744912043.561][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"4.3\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.563][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.375\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(text(), 'Washing Machine') or contains(text(), 'Automatic') or contains(text(), 'Fully') or contains(text(),'kg')]\"\n}\n",
+            "RESPONSE": "[1744912043.569][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.401\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.571][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.401\"\n}\n",
+            "RESPONSE": "[1744912043.576][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"Voltas Beko 6.5 kg Semi Automatic Top Load Washing Machine Maroon, White\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.578][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.376\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[@id and contains(@id,'productRating')]\"\n}\n",
+            "RESPONSE": "[1744912043.584][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.402\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.586][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.402\"\n}\n",
+            "RESPONSE": "[1744912043.592][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"4.1\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.594][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.376\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(text(), 'Washing Machine') or contains(text(), 'Automatic') or contains(text(), 'Fully') or contains(text(),'kg')]\"\n}\n",
+            "RESPONSE": "[1744912043.600][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.403\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.602][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.403\"\n}\n",
+            "RESPONSE": "[1744912043.607][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"realme TechLife 8 kg Soft closing Glass lid Fully Automatic Top Load Washing Machine with In-built Hea...\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.609][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.377\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[@id and contains(@id,'productRating')]\"\n}\n",
+            "RESPONSE": "[1744912043.615][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.404\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.617][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.404\"\n}\n",
+            "RESPONSE": "[1744912043.623][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"4.3\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.626][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.377\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(text(), 'Washing Machine') or contains(text(), 'Automatic') or contains(text(), 'Fully') or contains(text(),'kg')]\"\n}\n",
+            "RESPONSE": "[1744912043.632][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.405\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.634][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.405\"\n}\n",
+            "RESPONSE": "[1744912043.640][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"Voltas Beko 6 kg Semi Automatic Top Load Washing Machine Maroon, White\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.642][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.378\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[@id and contains(@id,'productRating')]\"\n}\n",
+            "RESPONSE": "[1744912043.648][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.406\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.649][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.406\"\n}\n",
+            "RESPONSE": "[1744912043.655][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"4.3\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.658][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.378\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(text(), 'Washing Machine') or contains(text(), 'Automatic') or contains(text(), 'Fully') or contains(text(),'kg')]\"\n}\n",
+            "RESPONSE": "[1744912043.663][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.407\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.665][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.407\"\n}\n",
+            "RESPONSE": "[1744912043.671][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"Voltas Beko 8 kg Semi Automatic Top Load Washing Machine Blue, White\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.673][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.379\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[@id and contains(@id,'productRating')]\"\n}\n",
+            "RESPONSE": "[1744912043.679][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.408\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.680][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.408\"\n}\n",
+            "RESPONSE": "[1744912043.687][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"4.3\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.689][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.379\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(text(), 'Washing Machine') or contains(text(), 'Automatic') or contains(text(), 'Fully') or contains(text(),'kg')]\"\n}\n",
+            "RESPONSE": "[1744912043.695][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.409\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.697][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.409\"\n}\n",
+            "RESPONSE": "[1744912043.703][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"Haier 6.5 kg Balance Clean Pulsator, Custom Wash Cycles with 15 Mins Quick Wash, Magic Filter Fully Au...\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.706][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.380\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[@id and contains(@id,'productRating')]\"\n}\n",
+            "RESPONSE": "[1744912043.712][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.410\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.714][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.410\"\n}\n",
+            "RESPONSE": "[1744912043.720][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"4.4\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.722][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.380\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(text(), 'Washing Machine') or contains(text(), 'Automatic') or contains(text(), 'Fully') or contains(text(),'kg')]\"\n}\n",
+            "RESPONSE": "[1744912043.727][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.411\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.729][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.411\"\n}\n",
+            "RESPONSE": "[1744912043.734][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"Whirlpool 7.5 kg 5 Star with Memory Retention, End of Cycle Buzzer and Collar Scrubber Semi Automatic ...\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.736][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.381\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[@id and contains(@id,'productRating')]\"\n}\n",
+            "RESPONSE": "[1744912043.742][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.412\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.744][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.412\"\n}\n",
+            "RESPONSE": "[1744912043.749][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"4.2\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.752][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.381\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(text(), 'Washing Machine') or contains(text(), 'Automatic') or contains(text(), 'Fully') or contains(text(),'kg')]\"\n}\n",
+            "RESPONSE": "[1744912043.757][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.413\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.759][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.413\"\n}\n",
+            "RESPONSE": "[1744912043.765][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"MarQ by Flipkart 6 kg 5 Star Rating Innowash Range Semi Automatic Top Load Washing Machine White, Maro...\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.767][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.382\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[@id and contains(@id,'productRating')]\"\n}\n",
+            "RESPONSE": "[1744912043.772][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.414\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.774][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.414\"\n}\n",
+            "RESPONSE": "[1744912043.780][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"4.4\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.782][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.382\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(text(), 'Washing Machine') or contains(text(), 'Automatic') or contains(text(), 'Fully') or contains(text(),'kg')]\"\n}\n",
+            "RESPONSE": "[1744912043.788][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.415\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.790][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.415\"\n}\n",
+            "RESPONSE": "[1744912043.795][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"LG 7 kg 5 Star, Smart Inverter Technology, TurboDrum, Smart Diagnosis with Soft Closing Door Fully Aut...\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.797][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.383\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[@id and contains(@id,'productRating')]\"\n}\n",
+            "RESPONSE": "[1744912043.803][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.416\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.805][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.416\"\n}\n",
+            "RESPONSE": "[1744912043.810][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"4.3\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.812][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.383\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(text(), 'Washing Machine') or contains(text(), 'Automatic') or contains(text(), 'Fully') or contains(text(),'kg')]\"\n}\n",
+            "RESPONSE": "[1744912043.818][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.417\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.820][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.417\"\n}\n",
+            "RESPONSE": "[1744912043.825][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"SAMSUNG 7 kg 5 star, Ecobubble, Digital Inverter, Fully Automatic Top Load Washing Machine Grey\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.827][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.384\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[@id and contains(@id,'productRating')]\"\n}\n",
+            "RESPONSE": "[1744912043.833][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.418\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.834][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.418\"\n}\n",
+            "RESPONSE": "[1744912043.840][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"4.3\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.842][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.384\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(text(), 'Washing Machine') or contains(text(), 'Automatic') or contains(text(), 'Fully') or contains(text(),'kg')]\"\n}\n",
+            "RESPONSE": "[1744912043.848][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.419\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.850][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.419\"\n}\n",
+            "RESPONSE": "[1744912043.856][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"Voltas Beko by A Tata Product 7 kg Semi Automatic Top Load Washing Machine Maroon, White\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.858][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.385\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[@id and contains(@id,'productRating')]\"\n}\n",
+            "RESPONSE": "[1744912043.863][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.420\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.865][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.420\"\n}\n",
+            "RESPONSE": "[1744912043.871][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"4.3\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.873][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.385\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(text(), 'Washing Machine') or contains(text(), 'Automatic') or contains(text(), 'Fully') or contains(text(),'kg')]\"\n}\n",
+            "RESPONSE": "[1744912043.879][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.421\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.880][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.421\"\n}\n",
+            "RESPONSE": "[1744912043.886][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"SAMSUNG 7 kg Diamond Drum Fully Automatic Top Load Washing Machine Silver\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.888][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.386\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[@id and contains(@id,'productRating')]\"\n}\n",
+            "RESPONSE": "[1744912043.894][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.422\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.897][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.422\"\n}\n",
+            "RESPONSE": "[1744912043.905][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"4.4\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.907][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.386\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(text(), 'Washing Machine') or contains(text(), 'Automatic') or contains(text(), 'Fully') or contains(text(),'kg')]\"\n}\n",
+            "RESPONSE": "[1744912043.912][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.423\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.914][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.423\"\n}\n",
+            "RESPONSE": "[1744912043.920][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"Whirlpool 7 kg 5 Star with Ace Wash Station, 1400 RPM Speed and Rust Proof Semi Automatic Top Load Was...\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.922][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.387\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[@id and contains(@id,'productRating')]\"\n}\n",
+            "RESPONSE": "[1744912043.928][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.424\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.930][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.424\"\n}\n",
+            "RESPONSE": "[1744912043.935][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"4.4\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.938][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.387\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(text(), 'Washing Machine') or contains(text(), 'Automatic') or contains(text(), 'Fully') or contains(text(),'kg')]\"\n}\n",
+            "RESPONSE": "[1744912043.943][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.425\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.945][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.425\"\n}\n",
+            "RESPONSE": "[1744912043.950][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"LG 7 kg 5 Star with Wind Jet Dry, Collar Scrubber and Rust Free Plastic Base Semi Automatic Top Load W...\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.952][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.388\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[@id and contains(@id,'productRating')]\"\n}\n",
+            "RESPONSE": "[1744912043.958][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.426\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.959][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.426\"\n}\n",
+            "RESPONSE": "[1744912043.965][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"4.3\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.967][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.388\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(text(), 'Washing Machine') or contains(text(), 'Automatic') or contains(text(), 'Fully') or contains(text(),'kg')]\"\n}\n",
+            "RESPONSE": "[1744912043.973][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.427\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.974][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.427\"\n}\n",
+            "RESPONSE": "[1744912043.980][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"SAMSUNG 8 kg 5 star, Ecobubble, Digital Inverter, Fully Automatic Top Load Washing Machine Grey\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.982][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.389\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[@id and contains(@id,'productRating')]\"\n}\n",
+            "RESPONSE": "[1744912043.988][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.428\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912043.990][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.428\"\n}\n",
+            "RESPONSE": "[1744912043.996][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"4.1\"\n"
+        },
+        {
+            "COMMAND": "[1744912043.998][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.389\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(text(), 'Washing Machine') or contains(text(), 'Automatic') or contains(text(), 'Fully') or contains(text(),'kg')]\"\n}\n",
+            "RESPONSE": "[1744912044.003][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.429\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912044.005][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.429\"\n}\n",
+            "RESPONSE": "[1744912044.011][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"Thomson 7 kg 5 Star Aqua Magic Semi Automatic Top Load Washing Machine Blue\"\n"
+        },
+        {
+            "COMMAND": "[1744912044.013][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.390\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[@id and contains(@id,'productRating')]\"\n}\n",
+            "RESPONSE": "[1744912044.018][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.430\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912044.020][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.430\"\n}\n",
+            "RESPONSE": "[1744912044.026][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"4.3\"\n"
+        },
+        {
+            "COMMAND": "[1744912044.028][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.390\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(text(), 'Washing Machine') or contains(text(), 'Automatic') or contains(text(), 'Fully') or contains(text(),'kg')]\"\n}\n",
+            "RESPONSE": "[1744912044.034][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.431\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912044.036][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.431\"\n}\n",
+            "RESPONSE": "[1744912044.042][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"SAMSUNG 8 kg Soft Closing Door 5 star, Ecobubble,, Super Speed, Digital Inverter Fully Automatic Top L...\"\n"
+        },
+        {
+            "COMMAND": "[1744912044.044][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.391\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[@id and contains(@id,'productRating')]\"\n}\n",
+            "RESPONSE": "[1744912044.050][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.432\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912044.052][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.432\"\n}\n",
+            "RESPONSE": "[1744912044.058][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"4.4\"\n"
+        },
+        {
+            "COMMAND": "[1744912044.060][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.391\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(text(), 'Washing Machine') or contains(text(), 'Automatic') or contains(text(), 'Fully') or contains(text(),'kg')]\"\n}\n",
+            "RESPONSE": "[1744912044.066][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.433\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912044.067][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.433\"\n}\n",
+            "RESPONSE": "[1744912044.073][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"SAMSUNG 8 kg Semi Automatic Top Load Washing Machine Black, Grey\"\n"
+        },
+        {
+            "COMMAND": "[1744912044.075][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.392\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[@id and contains(@id,'productRating')]\"\n}\n",
+            "RESPONSE": "[1744912044.081][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.434\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912044.082][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.434\"\n}\n",
+            "RESPONSE": "[1744912044.089][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"4.2\"\n"
+        },
+        {
+            "COMMAND": "[1744912044.091][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.392\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(text(), 'Washing Machine') or contains(text(), 'Automatic') or contains(text(), 'Fully') or contains(text(),'kg')]\"\n}\n",
+            "RESPONSE": "[1744912044.096][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.435\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912044.098][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.435\"\n}\n",
+            "RESPONSE": "[1744912044.103][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"realme TechLife 7.5 kg 5 Star Rating Semi Automatic Top Load Washing Machine Black, Grey\"\n"
+        },
+        {
+            "COMMAND": "[1744912044.105][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.393\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[@id and contains(@id,'productRating')]\"\n}\n",
+            "RESPONSE": "[1744912044.111][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.436\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912044.113][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.436\"\n}\n",
+            "RESPONSE": "[1744912044.120][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"4.2\"\n"
+        },
+        {
+            "COMMAND": "[1744912044.122][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.393\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(text(), 'Washing Machine') or contains(text(), 'Automatic') or contains(text(), 'Fully') or contains(text(),'kg')]\"\n}\n",
+            "RESPONSE": "[1744912044.127][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.437\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912044.129][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.437\"\n}\n",
+            "RESPONSE": "[1744912044.134][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"realme TechLife 8.5 kg 5 Star rating Semi Automatic Top Load Washing Machine Grey, Black\"\n"
+        },
+        {
+            "COMMAND": "[1744912044.137][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.394\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[@id and contains(@id,'productRating')]\"\n}\n",
+            "RESPONSE": "[1744912044.142][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.438\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912044.144][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.438\"\n}\n",
+            "RESPONSE": "[1744912044.150][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"4.5\"\n"
+        },
+        {
+            "COMMAND": "[1744912044.152][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.394\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(text(), 'Washing Machine') or contains(text(), 'Automatic') or contains(text(), 'Fully') or contains(text(),'kg')]\"\n}\n",
+            "RESPONSE": "[1744912044.158][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.439\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912044.160][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.439\"\n}\n",
+            "RESPONSE": "[1744912044.165][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"LG 8.5 kg 5 Star with Roller Jet Pulsator with Soak, Wind Jet Dry and Collar Scrubber Semi Automatic T...\"\n"
+        },
+        {
+            "COMMAND": "[1744912044.167][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.395\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[@id and contains(@id,'productRating')]\"\n}\n",
+            "RESPONSE": "[1744912044.173][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.440\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912044.175][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.440\"\n}\n",
+            "RESPONSE": "[1744912044.181][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"4.3\"\n"
+        },
+        {
+            "COMMAND": "[1744912044.183][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.395\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(text(), 'Washing Machine') or contains(text(), 'Automatic') or contains(text(), 'Fully') or contains(text(),'kg')]\"\n}\n",
+            "RESPONSE": "[1744912044.188][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.441\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912044.190][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.441\"\n}\n",
+            "RESPONSE": "[1744912044.195][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"Voltas Beko 9 kg Semi Automatic Top Load Washing Machine Black, Grey\"\n"
+        },
+        {
+            "COMMAND": "[1744912044.197][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.396\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[@id and contains(@id,'productRating')]\"\n}\n",
+            "RESPONSE": "[1744912044.203][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.442\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912044.205][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.442\"\n}\n",
+            "RESPONSE": "[1744912044.212][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"4.1\"\n"
+        },
+        {
+            "COMMAND": "[1744912044.214][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.396\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(text(), 'Washing Machine') or contains(text(), 'Automatic') or contains(text(), 'Fully') or contains(text(),'kg')]\"\n}\n",
+            "RESPONSE": "[1744912044.220][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.443\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912044.222][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.443\"\n}\n",
+            "RESPONSE": "[1744912044.228][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"Voltas Beko by A Tata Product 7.5 kg Washer only Maroon, White\"\n"
+        },
+        {
+            "COMMAND": "[1744912044.230][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.397\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[@id and contains(@id,'productRating')]\"\n}\n",
+            "RESPONSE": "[1744912044.236][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.444\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912044.237][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.444\"\n}\n",
+            "RESPONSE": "[1744912044.243][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"4.3\"\n"
+        },
+        {
+            "COMMAND": "[1744912044.245][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.397\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(text(), 'Washing Machine') or contains(text(), 'Automatic') or contains(text(), 'Fully') or contains(text(),'kg')]\"\n}\n",
+            "RESPONSE": "[1744912044.251][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.445\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912044.253][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.689D5A23B4C7F683A3C86786B86DDF44.e.445\"\n}\n",
+            "RESPONSE": "[1744912044.259][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"Voltas Beko 8.5 kg Semi Automatic Top Load Washing Machine Maroon, White\"\n"
+        },
+        {
+            "COMMAND": "[1744912044.262][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND Navigate {\n   \"url\": \"http://www.flipkart.com/\"\n}\n",
+            "RESPONSE": "[1744912045.831][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE Navigate\n"
+        },
+        {
+            "COMMAND": "[1744912045.833][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"// div[@class='JFPqaw']/span\"\n}\n",
+            "RESPONSE": "[1744912045.900][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.9C288257A70150A9BFFA396C6D852226.e.518\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912045.937][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND ClickElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.9C288257A70150A9BFFA396C6D852226.e.518\"\n}\n",
+            "RESPONSE": "[1744912045.998][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE ClickElement\n"
+        },
+        {
+            "COMMAND": "[1744912046.000][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetUrl {\n}\n",
+            "RESPONSE": "[1744912046.009][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetUrl \"https://www.flipkart.com/\"\n"
+        },
+        {
+            "COMMAND": "[1744912046.011][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"//input[starts-with(@placeholder, 'Search for Product') or @type='text' or starts-with(@title, 'Search for Product')]\"\n}\n",
+            "RESPONSE": "[1744912046.017][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.9C288257A70150A9BFFA396C6D852226.e.492\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912046.033][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND ClickElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.9C288257A70150A9BFFA396C6D852226.e.492\"\n}\n",
+            "RESPONSE": "[1744912046.244][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE ClickElement\n"
+        },
+        {
+            "COMMAND": "[1744912046.246][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND ClearElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.9C288257A70150A9BFFA396C6D852226.e.492\"\n}\n",
+            "RESPONSE": "[1744912046.266][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE ClearElement\n"
+        },
+        {
+            "COMMAND": "[1744912046.270][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND TypeElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.9C288257A70150A9BFFA396C6D852226.e.492\",\n   \"text\": \"iPhone\",\n   \"value\": [ \"i\", \"P\", \"h\", \"o\", \"n\", \"e\" ]\n}\n",
+            "RESPONSE": "[1744912046.314][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE TypeElement\n"
+        },
+        {
+            "COMMAND": "[1744912046.316][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"//button[starts-with(@aria-label, 'Search for Product') or @type='submit' or starts-with(@title, 'Search for Product')]\"\n}\n",
+            "RESPONSE": "[1744912046.325][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.9C288257A70150A9BFFA396C6D852226.e.530\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912046.337][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"//button[starts-with(@aria-label, 'Search for Product') or @type='submit' or starts-with(@title, 'Search for Product')]\"\n}\n",
+            "RESPONSE": "[1744912046.344][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.9C288257A70150A9BFFA396C6D852226.e.530\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912046.359][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND IsElementEnabled {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.9C288257A70150A9BFFA396C6D852226.e.530\"\n}\n",
+            "RESPONSE": "[1744912046.364][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE IsElementEnabled true\n"
+        },
+        {
+            "COMMAND": "[1744912046.366][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"//button[starts-with(@aria-label, 'Search for Product') or @type='submit' or starts-with(@title, 'Search for Product')]\"\n}\n",
+            "RESPONSE": "[1744912046.376][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.9C288257A70150A9BFFA396C6D852226.e.530\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912046.379][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND ClickElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.9C288257A70150A9BFFA396C6D852226.e.530\"\n}\n",
+            "RESPONSE": "[1744912048.455][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE ClickElement\n"
+        },
+        {
+            "COMMAND": "[1744912048.458][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetUrl {\n}\n",
+            "RESPONSE": "[1744912048.485][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetUrl \"https://www.flipkart.com/search?q=iPhone&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off\"\n"
+        },
+        {
+            "COMMAND": "[1744912048.488][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetTitle {\n}\n",
+            "RESPONSE": "[1744912048.496][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetTitle \"IPhone- Buy Products Online at Best Price in India - All Categories | Flipkart.com\"\n"
+        },
+        {
+            "COMMAND": "[1744912053.509][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElements {\n   \"using\": \"xpath\",\n   \"value\": \"//div[contains(@class,'yKfJKb')]\"\n}\n",
+            "RESPONSE": "[1744912053.531][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElements [ {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.742\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.743\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.744\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.745\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.746\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.747\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.748\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.749\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.750\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.751\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.752\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.753\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.754\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.755\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.756\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.757\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.758\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.759\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.760\"\n}, \"...\" ]\n"
+        },
+        {
+            "COMMAND": "[1744912053.712][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.742\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(@class,'UkUFwK')]/span\"\n}\n",
+            "RESPONSE": "[1744912053.721][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.766\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912053.723][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.766\"\n}\n",
+            "RESPONSE": "[1744912053.728][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"9% off\"\n"
+        },
+        {
+            "COMMAND": "[1744912053.730][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.743\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(@class,'UkUFwK')]/span\"\n}\n",
+            "RESPONSE": "[1744912053.736][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.767\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912053.738][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.767\"\n}\n",
+            "RESPONSE": "[1744912053.743][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"9% off\"\n"
+        },
+        {
+            "COMMAND": "[1744912053.745][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.744\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(@class,'UkUFwK')]/span\"\n}\n",
+            "RESPONSE": "[1744912053.751][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.768\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912053.752][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.768\"\n}\n",
+            "RESPONSE": "[1744912053.758][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"6% off\"\n"
+        },
+        {
+            "COMMAND": "[1744912053.760][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.745\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(@class,'UkUFwK')]/span\"\n}\n",
+            "RESPONSE": "[1744912053.766][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.769\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912053.767][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.769\"\n}\n",
+            "RESPONSE": "[1744912053.773][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"9% off\"\n"
+        },
+        {
+            "COMMAND": "[1744912053.774][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.746\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(@class,'UkUFwK')]/span\"\n}\n",
+            "RESPONSE": "[1744912053.780][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.770\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912053.781][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.770\"\n}\n",
+            "RESPONSE": "[1744912053.787][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"7% off\"\n"
+        },
+        {
+            "COMMAND": "[1744912053.789][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.747\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(@class,'UkUFwK')]/span\"\n}\n",
+            "RESPONSE": "[1744912053.794][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.771\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912053.796][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.771\"\n}\n",
+            "RESPONSE": "[1744912053.801][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"8% off\"\n"
+        },
+        {
+            "COMMAND": "[1744912053.803][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.748\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(@class,'UkUFwK')]/span\"\n}\n",
+            "RESPONSE": "[1744912053.809][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.772\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912053.810][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.772\"\n}\n",
+            "RESPONSE": "[1744912053.816][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"7% off\"\n"
+        },
+        {
+            "COMMAND": "[1744912053.817][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.749\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(@class,'UkUFwK')]/span\"\n}\n",
+            "RESPONSE": "[1744912053.823][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.773\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912053.824][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.773\"\n}\n",
+            "RESPONSE": "[1744912053.830][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"6% off\"\n"
+        },
+        {
+            "COMMAND": "[1744912053.832][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.750\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(@class,'UkUFwK')]/span\"\n}\n",
+            "RESPONSE": "[1744912053.837][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.774\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912053.838][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.774\"\n}\n",
+            "RESPONSE": "[1744912053.844][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"5% off\"\n"
+        },
+        {
+            "COMMAND": "[1744912053.846][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.751\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(@class,'UkUFwK')]/span\"\n}\n",
+            "RESPONSE": "[1744912053.852][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.775\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912053.854][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.775\"\n}\n",
+            "RESPONSE": "[1744912053.860][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"6% off\"\n"
+        },
+        {
+            "COMMAND": "[1744912053.862][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.752\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(@class,'UkUFwK')]/span\"\n}\n",
+            "RESPONSE": "[1744912053.868][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement ERROR no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\".//div[contains(@class,'UkUFwK')]/span\"}\n  (Session info: chrome=135.0.7049.85)\n"
+        },
+        {
+            "COMMAND": "[1744912053.878][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.753\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(@class,'UkUFwK')]/span\"\n}\n",
+            "RESPONSE": "[1744912053.884][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.776\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912053.886][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.776\"\n}\n",
+            "RESPONSE": "[1744912053.892][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"6% off\"\n"
+        },
+        {
+            "COMMAND": "[1744912053.894][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.754\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(@class,'UkUFwK')]/span\"\n}\n",
+            "RESPONSE": "[1744912053.901][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.777\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912053.902][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.777\"\n}\n",
+            "RESPONSE": "[1744912053.909][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"5% off\"\n"
+        },
+        {
+            "COMMAND": "[1744912053.911][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.755\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(@class,'UkUFwK')]/span\"\n}\n",
+            "RESPONSE": "[1744912053.918][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.778\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912053.920][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.778\"\n}\n",
+            "RESPONSE": "[1744912053.926][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"6% off\"\n"
+        },
+        {
+            "COMMAND": "[1744912053.928][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.756\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(@class,'UkUFwK')]/span\"\n}\n",
+            "RESPONSE": "[1744912053.934][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.779\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912053.935][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.779\"\n}\n",
+            "RESPONSE": "[1744912053.941][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"6% off\"\n"
+        },
+        {
+            "COMMAND": "[1744912053.943][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.757\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(@class,'UkUFwK')]/span\"\n}\n",
+            "RESPONSE": "[1744912053.949][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.780\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912053.950][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.780\"\n}\n",
+            "RESPONSE": "[1744912053.956][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"5% off\"\n"
+        },
+        {
+            "COMMAND": "[1744912053.958][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.758\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(@class,'UkUFwK')]/span\"\n}\n",
+            "RESPONSE": "[1744912053.964][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.781\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912053.966][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.781\"\n}\n",
+            "RESPONSE": "[1744912053.974][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"5% off\"\n"
+        },
+        {
+            "COMMAND": "[1744912053.976][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.759\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(@class,'UkUFwK')]/span\"\n}\n",
+            "RESPONSE": "[1744912053.985][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.782\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912053.988][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.782\"\n}\n",
+            "RESPONSE": "[1744912053.994][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"5% off\"\n"
+        },
+        {
+            "COMMAND": "[1744912053.996][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.760\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(@class,'UkUFwK')]/span\"\n}\n",
+            "RESPONSE": "[1744912054.004][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.783\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912054.006][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.783\"\n}\n",
+            "RESPONSE": "[1744912054.012][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"5% off\"\n"
+        },
+        {
+            "COMMAND": "[1744912054.014][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.761\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(@class,'UkUFwK')]/span\"\n}\n",
+            "RESPONSE": "[1744912054.020][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement ERROR no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\".//div[contains(@class,'UkUFwK')]/span\"}\n  (Session info: chrome=135.0.7049.85)\n"
+        },
+        {
+            "COMMAND": "[1744912054.023][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.762\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(@class,'UkUFwK')]/span\"\n}\n",
+            "RESPONSE": "[1744912054.029][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.784\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912054.030][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.784\"\n}\n",
+            "RESPONSE": "[1744912054.036][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"7% off\"\n"
+        },
+        {
+            "COMMAND": "[1744912054.038][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.763\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(@class,'UkUFwK')]/span\"\n}\n",
+            "RESPONSE": "[1744912054.043][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.785\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912054.045][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.785\"\n}\n",
+            "RESPONSE": "[1744912054.051][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"5% off\"\n"
+        },
+        {
+            "COMMAND": "[1744912054.052][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.764\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(@class,'UkUFwK')]/span\"\n}\n",
+            "RESPONSE": "[1744912054.059][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.786\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912054.060][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.786\"\n}\n",
+            "RESPONSE": "[1744912054.066][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"7% off\"\n"
+        },
+        {
+            "COMMAND": "[1744912054.068][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.765\",\n   \"using\": \"xpath\",\n   \"value\": \".//div[contains(@class,'UkUFwK')]/span\"\n}\n",
+            "RESPONSE": "[1744912054.076][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.787\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912054.080][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.474CEE30EEB2A2D214B05435BEF8E377.e.787\"\n}\n",
+            "RESPONSE": "[1744912054.087][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"5% off\"\n"
+        },
+        {
+            "COMMAND": "[1744912054.090][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND Navigate {\n   \"url\": \"http://www.flipkart.com/\"\n}\n",
+            "RESPONSE": "[1744912055.572][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE Navigate\n"
+        },
+        {
+            "COMMAND": "[1744912055.574][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"// div[@class='JFPqaw']/span\"\n}\n",
+            "RESPONSE": "[1744912055.615][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement ERROR no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"// div[@class='JFPqaw']/span\"}\n  (Session info: chrome=135.0.7049.85)\n"
+        },
+        {
+            "COMMAND": "[1744912056.122][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"// div[@class='JFPqaw']/span\"\n}\n",
+            "RESPONSE": "[1744912056.148][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement ERROR no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"// div[@class='JFPqaw']/span\"}\n  (Session info: chrome=135.0.7049.85)\n"
+        },
+        {
+            "COMMAND": "[1744912056.665][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"// div[@class='JFPqaw']/span\"\n}\n",
+            "RESPONSE": "[1744912056.680][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement ERROR no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"// div[@class='JFPqaw']/span\"}\n  (Session info: chrome=135.0.7049.85)\n"
+        },
+        {
+            "COMMAND": "[1744912057.193][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"// div[@class='JFPqaw']/span\"\n}\n",
+            "RESPONSE": "[1744912057.201][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement ERROR no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"// div[@class='JFPqaw']/span\"}\n  (Session info: chrome=135.0.7049.85)\n"
+        },
+        {
+            "COMMAND": "[1744912057.719][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"// div[@class='JFPqaw']/span\"\n}\n",
+            "RESPONSE": "[1744912057.740][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement ERROR no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"// div[@class='JFPqaw']/span\"}\n  (Session info: chrome=135.0.7049.85)\n"
+        },
+        {
+            "COMMAND": "[1744912058.252][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"// div[@class='JFPqaw']/span\"\n}\n",
+            "RESPONSE": "[1744912058.265][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement ERROR no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"// div[@class='JFPqaw']/span\"}\n  (Session info: chrome=135.0.7049.85)\n"
+        },
+        {
+            "COMMAND": "[1744912058.780][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"// div[@class='JFPqaw']/span\"\n}\n",
+            "RESPONSE": "[1744912058.795][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement ERROR no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"// div[@class='JFPqaw']/span\"}\n  (Session info: chrome=135.0.7049.85)\n"
+        },
+        {
+            "COMMAND": "[1744912059.301][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"// div[@class='JFPqaw']/span\"\n}\n",
+            "RESPONSE": "[1744912059.317][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement ERROR no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"// div[@class='JFPqaw']/span\"}\n  (Session info: chrome=135.0.7049.85)\n"
+        },
+        {
+            "COMMAND": "[1744912059.834][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"// div[@class='JFPqaw']/span\"\n}\n",
+            "RESPONSE": "[1744912059.851][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement ERROR no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"// div[@class='JFPqaw']/span\"}\n  (Session info: chrome=135.0.7049.85)\n"
+        },
+        {
+            "COMMAND": "[1744912060.365][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"// div[@class='JFPqaw']/span\"\n}\n",
+            "RESPONSE": "[1744912060.384][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement ERROR no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"// div[@class='JFPqaw']/span\"}\n  (Session info: chrome=135.0.7049.85)\n"
+        },
+        {
+            "COMMAND": "[1744912060.893][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"// div[@class='JFPqaw']/span\"\n}\n",
+            "RESPONSE": "[1744912060.914][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement ERROR no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"// div[@class='JFPqaw']/span\"}\n  (Session info: chrome=135.0.7049.85)\n"
+        },
+        {
+            "COMMAND": "[1744912060.917][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetUrl {\n}\n",
+            "RESPONSE": "[1744912060.929][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetUrl \"https://www.flipkart.com/\"\n"
+        },
+        {
+            "COMMAND": "[1744912060.932][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"//input[starts-with(@placeholder, 'Search for Product') or @type='text' or starts-with(@title, 'Search for Product')]\"\n}\n",
+            "RESPONSE": "[1744912060.942][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.32D7A282A02DCD11E804866F3C1B2224.e.879\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912060.958][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND ClickElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.32D7A282A02DCD11E804866F3C1B2224.e.879\"\n}\n",
+            "RESPONSE": "[1744912061.030][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE ClickElement\n"
+        },
+        {
+            "COMMAND": "[1744912061.032][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND ClearElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.32D7A282A02DCD11E804866F3C1B2224.e.879\"\n}\n",
+            "RESPONSE": "[1744912061.053][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE ClearElement\n"
+        },
+        {
+            "COMMAND": "[1744912061.055][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND TypeElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.32D7A282A02DCD11E804866F3C1B2224.e.879\",\n   \"text\": \"Coffee Mug\",\n   \"value\": [ \"C\", \"o\", \"f\", \"f\", \"e\", \"e\", \" \", \"M\", \"u\", \"g\" ]\n}\n",
+            "RESPONSE": "[1744912061.099][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE TypeElement\n"
+        },
+        {
+            "COMMAND": "[1744912061.101][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"//button[starts-with(@aria-label, 'Search for Product') or @type='submit' or starts-with(@title, 'Search for Product')]\"\n}\n",
+            "RESPONSE": "[1744912061.106][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.32D7A282A02DCD11E804866F3C1B2224.e.885\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912061.119][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"//button[starts-with(@aria-label, 'Search for Product') or @type='submit' or starts-with(@title, 'Search for Product')]\"\n}\n",
+            "RESPONSE": "[1744912061.127][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.32D7A282A02DCD11E804866F3C1B2224.e.885\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912061.136][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND IsElementEnabled {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.32D7A282A02DCD11E804866F3C1B2224.e.885\"\n}\n",
+            "RESPONSE": "[1744912061.145][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE IsElementEnabled true\n"
+        },
+        {
+            "COMMAND": "[1744912061.146][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"//button[starts-with(@aria-label, 'Search for Product') or @type='submit' or starts-with(@title, 'Search for Product')]\"\n}\n",
+            "RESPONSE": "[1744912061.151][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.32D7A282A02DCD11E804866F3C1B2224.e.885\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912061.153][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND ClickElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.32D7A282A02DCD11E804866F3C1B2224.e.885\"\n}\n",
+            "RESPONSE": "[1744912062.960][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE ClickElement\n"
+        },
+        {
+            "COMMAND": "[1744912062.962][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetUrl {\n}\n",
+            "RESPONSE": "[1744912062.999][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetUrl \"https://www.flipkart.com/search?q=Coffee%20Mug&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off\"\n"
+        },
+        {
+            "COMMAND": "[1744912063.001][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetTitle {\n}\n",
+            "RESPONSE": "[1744912063.010][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetTitle \"Coffee Mug- Buy Products Online at Best Price in India - All Categories | Flipkart.com\"\n"
+        },
+        {
+            "COMMAND": "[1744912063.012][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"//div[contains(text(),'4') and contains(text(),'above')]\"\n}\n",
+            "RESPONSE": "[1744912063.028][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.981\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912063.042][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"//div[contains(text(),'4') and contains(text(),'above')]\"\n}\n",
+            "RESPONSE": "[1744912063.048][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.981\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912063.063][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND IsElementEnabled {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.981\"\n}\n",
+            "RESPONSE": "[1744912063.073][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE IsElementEnabled true\n"
+        },
+        {
+            "COMMAND": "[1744912063.075][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElement {\n   \"using\": \"xpath\",\n   \"value\": \"//div[contains(text(),'4') and contains(text(),'above')]\"\n}\n",
+            "RESPONSE": "[1744912063.082][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.981\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912063.084][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND ClickElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.981\"\n}\n",
+            "RESPONSE": "[1744912063.211][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE ClickElement\n"
+        },
+        {
+            "COMMAND": "[1744912068.217][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindElements {\n   \"using\": \"xpath\",\n   \"value\": \"//div[starts-with(@data-id, 'MUGG')]\"\n}\n",
+            "RESPONSE": "[1744912068.245][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindElements [ {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1019\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1020\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1021\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1022\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1023\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1024\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1025\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1026\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1027\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1028\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1029\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1030\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1031\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1032\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1033\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1034\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1035\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1036\"\n}, {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1037\"\n}, \"...\" ]\n"
+        },
+        {
+            "COMMAND": "[1744912068.484][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1019\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912068.498][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1045\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.500][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1045\"\n}\n",
+            "RESPONSE": "[1744912068.509][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(10,008)\"\n"
+        },
+        {
+            "COMMAND": "[1744912068.511][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1019\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912068.522][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1046\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.524][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1046\"\n}\n",
+            "RESPONSE": "[1744912068.533][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"Thiwa Tea/Milk Lid Cup Unbreakable Double Wall Hot and ...\"\n"
+        },
+        {
+            "COMMAND": "[1744912068.535][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1019\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912068.549][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1047\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.568][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1020\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912068.575][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1048\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.577][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1048\"\n}\n",
+            "RESPONSE": "[1744912068.583][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(490)\"\n"
+        },
+        {
+            "COMMAND": "[1744912068.584][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1020\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912068.590][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1049\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.592][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1049\"\n}\n",
+            "RESPONSE": "[1744912068.597][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"U.P.C. Tile Yellow Series Fine Bone China Ceramics 300m...\"\n"
+        },
+        {
+            "COMMAND": "[1744912068.599][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1020\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912068.605][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1015\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.614][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1021\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912068.619][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1050\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.621][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1050\"\n}\n",
+            "RESPONSE": "[1744912068.628][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(2,581)\"\n"
+        },
+        {
+            "COMMAND": "[1744912068.629][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1021\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912068.635][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1051\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.637][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1051\"\n}\n",
+            "RESPONSE": "[1744912068.642][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"OFFYX Stainless Steel Tea Cup Stainless Steel Coffee wi...\"\n"
+        },
+        {
+            "COMMAND": "[1744912068.644][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1021\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912068.649][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1052\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.656][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1022\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912068.662][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1053\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.663][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1053\"\n}\n",
+            "RESPONSE": "[1744912068.669][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(394)\"\n"
+        },
+        {
+            "COMMAND": "[1744912068.671][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1022\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912068.676][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1054\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.678][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1054\"\n}\n",
+            "RESPONSE": "[1744912068.683][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"Pigeon ThermoCup,Vacuum Insulated Travel, Office with D...\"\n"
+        },
+        {
+            "COMMAND": "[1744912068.685][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1022\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912068.690][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1055\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.697][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1023\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912068.703][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1056\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.704][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1056\"\n}\n",
+            "RESPONSE": "[1744912068.710][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(9,469)\"\n"
+        },
+        {
+            "COMMAND": "[1744912068.712][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1023\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912068.718][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1057\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.719][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1057\"\n}\n",
+            "RESPONSE": "[1744912068.726][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"SPEACK Coffee Lover's 1st Preferable Choice Sipper Lid ...\"\n"
+        },
+        {
+            "COMMAND": "[1744912068.728][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1023\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912068.733][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1058\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.740][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1024\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912068.746][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1059\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.747][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1059\"\n}\n",
+            "RESPONSE": "[1744912068.753][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(2,242)\"\n"
+        },
+        {
+            "COMMAND": "[1744912068.755][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1024\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912068.760][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1060\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.761][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1060\"\n}\n",
+            "RESPONSE": "[1744912068.767][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"Giftspedia Photo & Text Printed Cup For Birthday , Anni...\"\n"
+        },
+        {
+            "COMMAND": "[1744912068.769][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1024\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912068.774][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1061\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.782][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1025\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912068.788][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1062\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.789][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1062\"\n}\n",
+            "RESPONSE": "[1744912068.794][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(1,891)\"\n"
+        },
+        {
+            "COMMAND": "[1744912068.796][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1025\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912068.801][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1063\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.803][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1063\"\n}\n",
+            "RESPONSE": "[1744912068.808][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"Thiwa Double Wall Stainless Steel Tea Coffee Solid Morn...\"\n"
+        },
+        {
+            "COMMAND": "[1744912068.809][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1025\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912068.815][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1064\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.822][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1026\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912068.827][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1065\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.829][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1065\"\n}\n",
+            "RESPONSE": "[1744912068.834][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(146)\"\n"
+        },
+        {
+            "COMMAND": "[1744912068.836][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1026\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912068.841][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1066\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.843][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1066\"\n}\n",
+            "RESPONSE": "[1744912068.848][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"ZORI Premium Quality Happy Birthday To You Printed Glos...\"\n"
+        },
+        {
+            "COMMAND": "[1744912068.849][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1026\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912068.855][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1067\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.863][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1027\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912068.868][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1068\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.870][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1068\"\n}\n",
+            "RESPONSE": "[1744912068.875][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(303)\"\n"
+        },
+        {
+            "COMMAND": "[1744912068.877][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1027\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912068.882][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1069\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.884][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1069\"\n}\n",
+            "RESPONSE": "[1744912068.889][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"Riyanshi Enterprises Cute Bubu Dudu Printed Coffee High...\"\n"
+        },
+        {
+            "COMMAND": "[1744912068.891][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1027\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912068.896][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1070\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.903][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1028\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912068.909][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1071\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.910][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1071\"\n}\n",
+            "RESPONSE": "[1744912068.916][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(335)\"\n"
+        },
+        {
+            "COMMAND": "[1744912068.917][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1028\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912068.923][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1072\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.924][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1072\"\n}\n",
+            "RESPONSE": "[1744912068.929][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"KAVANA Coffee mug Hot & Cold for Drinks, Double Walled ...\"\n"
+        },
+        {
+            "COMMAND": "[1744912068.931][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1028\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912068.936][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1073\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.944][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1029\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912068.950][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1074\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.951][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1074\"\n}\n",
+            "RESPONSE": "[1744912068.956][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(3,065)\"\n"
+        },
+        {
+            "COMMAND": "[1744912068.958][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1029\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912068.964][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1075\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.965][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1075\"\n}\n",
+            "RESPONSE": "[1744912068.971][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"Thiwa Double Wall coffee mug stainless steel Couple Cof...\"\n"
+        },
+        {
+            "COMMAND": "[1744912068.972][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1029\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912068.978][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1076\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.987][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1030\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912068.993][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1077\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912068.994][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1077\"\n}\n",
+            "RESPONSE": "[1744912069.000][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(133)\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.001][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1030\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912069.007][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1078\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.009][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1078\"\n}\n",
+            "RESPONSE": "[1744912069.014][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"Pigeon ThermoCup,Vacuum Insulated Travel, Office with D...\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.016][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1030\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912069.022][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1079\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.030][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1031\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912069.035][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1080\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.037][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1080\"\n}\n",
+            "RESPONSE": "[1744912069.042][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(12)\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.044][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1031\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912069.050][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1081\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.052][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1081\"\n}\n",
+            "RESPONSE": "[1744912069.057][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"BLLUEX Blue Enamel Military Stainless Steel Coffee Mug\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.059][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1031\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912069.065][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1082\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.073][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1032\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912069.079][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1083\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.080][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1083\"\n}\n",
+            "RESPONSE": "[1744912069.086][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(328)\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.087][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1032\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912069.093][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1084\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.094][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1084\"\n}\n",
+            "RESPONSE": "[1744912069.099][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"Q4S Flower design print Steel cup Stainless Steel Coffe...\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.101][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1032\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912069.106][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1085\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.114][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1033\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912069.119][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1086\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.121][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1086\"\n}\n",
+            "RESPONSE": "[1744912069.126][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(510)\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.128][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1033\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912069.133][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1087\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.135][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1087\"\n}\n",
+            "RESPONSE": "[1744912069.140][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"MILTON Thermosteel Black | Hot & Cold Flask | Soup | Te...\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.142][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1033\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912069.147][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1088\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.154][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1034\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912069.160][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1089\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.161][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1089\"\n}\n",
+            "RESPONSE": "[1744912069.172][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(56)\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.175][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1034\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912069.219][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1090\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.221][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1090\"\n}\n",
+            "RESPONSE": "[1744912069.233][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"ZORI Premium Quality Engineer Quote Printed Glossy Fini...\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.235][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1034\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912069.240][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1091\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.247][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1035\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912069.253][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1092\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.254][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1092\"\n}\n",
+            "RESPONSE": "[1744912069.260][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(510)\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.261][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1035\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912069.266][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1093\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.268][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1093\"\n}\n",
+            "RESPONSE": "[1744912069.273][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"Superior craft Full Black Plane Coffee and Tea Ceramic ...\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.275][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1035\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912069.281][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1094\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.288][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1036\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912069.294][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1095\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.296][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1095\"\n}\n",
+            "RESPONSE": "[1744912069.303][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(125)\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.305][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1036\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912069.311][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1096\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.313][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1096\"\n}\n",
+            "RESPONSE": "[1744912069.319][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"DUBBLIN Refresh Unbreakable Double Wall Insulated with ...\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.321][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1036\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912069.327][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1097\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.337][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1037\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912069.344][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1098\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.345][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1098\"\n}\n",
+            "RESPONSE": "[1744912069.352][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(553)\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.354][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1037\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912069.360][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1099\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.362][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1099\"\n}\n",
+            "RESPONSE": "[1744912069.368][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"Giftspedia Photo & Text Printed Cup For Birthday , Anni...\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.369][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1037\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912069.374][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1100\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.382][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1038\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912069.388][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1101\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.389][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1101\"\n}\n",
+            "RESPONSE": "[1744912069.394][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(56)\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.396][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1038\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912069.401][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1102\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.402][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1102\"\n}\n",
+            "RESPONSE": "[1744912069.408][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"TheWhoop Anime One-Piece Luffy Combo Gift Big Cup With ...\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.410][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1038\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912069.415][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1103\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.423][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1039\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912069.428][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1104\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.430][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1104\"\n}\n",
+            "RESPONSE": "[1744912069.437][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(88)\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.438][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1039\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912069.445][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1105\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.446][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1105\"\n}\n",
+            "RESPONSE": "[1744912069.453][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"Brewsaga Coffee Tumbler With Lid And Straw Hot/Cold Wit...\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.455][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1039\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912069.461][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1106\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.468][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1040\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912069.473][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1107\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.477][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1107\"\n}\n",
+            "RESPONSE": "[1744912069.483][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(46)\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.484][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1040\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912069.489][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1108\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.491][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1108\"\n}\n",
+            "RESPONSE": "[1744912069.496][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"ZORI Premium Quality Tom And Jerry Theme Printed Glossy...\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.498][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1040\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912069.503][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1109\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.510][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1041\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912069.516][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1110\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.517][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1110\"\n}\n",
+            "RESPONSE": "[1744912069.523][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(101)\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.525][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1041\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912069.530][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1111\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.531][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1111\"\n}\n",
+            "RESPONSE": "[1744912069.536][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"Giftspedia Photo & Text Printed Cup For Birthday , Anni...\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.538][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1041\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912069.544][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1112\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.551][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1042\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912069.557][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1113\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.558][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1113\"\n}\n",
+            "RESPONSE": "[1744912069.564][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(9)\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.566][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1042\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912069.571][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1114\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.572][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1114\"\n}\n",
+            "RESPONSE": "[1744912069.578][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"BLLUEX Green Enamel Non-Insulated for Army,Military,Cor...\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.579][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1042\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912069.584][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1115\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.591][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1043\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912069.596][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1116\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.598][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1116\"\n}\n",
+            "RESPONSE": "[1744912069.603][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(631)\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.605][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1043\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912069.610][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1117\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.612][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1117\"\n}\n",
+            "RESPONSE": "[1744912069.617][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"Giftspedia Photo & Text Printed Cup For Birthday , Anni...\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.619][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1043\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912069.624][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1118\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.631][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1044\",\n   \"using\": \"xpath\",\n   \"value\": \".//span[starts-with(@id,'productRating')]/following-sibling::span\"\n}\n",
+            "RESPONSE": "[1744912069.636][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1119\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.637][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1119\"\n}\n",
+            "RESPONSE": "[1744912069.643][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"(653)\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.644][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1044\",\n   \"using\": \"xpath\",\n   \"value\": \".//a[@class='wjcEIp']\"\n}\n",
+            "RESPONSE": "[1744912069.650][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1120\"\n}\n"
+        },
+        {
+            "COMMAND": "[1744912069.651][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND GetElementText {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1120\"\n}\n",
+            "RESPONSE": "[1744912069.656][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE GetElementText \"ZORI Premium Quality Never Ever Give Up Motivation Prin...\"\n"
+        },
+        {
+            "COMMAND": "[1744912069.657][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] COMMAND FindChildElement {\n   \"id\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1044\",\n   \"using\": \"xpath\",\n   \"value\": \".//img[@loading='eager' or starts-with(@alt,'Pigeon ThermoCup')]\"\n}\n",
+            "RESPONSE": "[1744912069.663][INFO]: [cdbf6e80d54c0ed955c8bcc1e2456d1b] RESPONSE FindChildElement {\n   \"element-6066-11e4-a52e-4f735466cecf\": \"f.B681746031E86783E94BD95D1D52805F.d.45A730A0E02DB52D356228CE19686470.e.1121\"\n}\n"
+        }
+    ]
+}
