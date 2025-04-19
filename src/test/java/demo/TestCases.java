@@ -133,6 +133,7 @@ public class TestCases {
         // Title and image URL of the 5 items with highest number of reviews
         @Test(enabled = true)
         public void testCase03() throws InterruptedException {
+
                 System.out.println("testCase 03 Start");
                 SoftAssert softAssert = new SoftAssert();
                 WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
